@@ -1,8 +1,8 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
+    "price": 0
   },
   "daily2": {
     "itemGrants": ["AthenaItemWrap:Wrap_139_Prismatic"],
@@ -25,8 +25,8 @@
     "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
+    "price": 0
   },
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"],
